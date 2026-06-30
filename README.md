@@ -45,7 +45,7 @@ pip install pandas numpy scikit-learn nltk
 jupyter notebook
 ```
 
-Open **Movie_Recommendation_System_Final.ipynb** and run all cells.
+Open **Movie_Recommendation_System_Final_fixed.ipynb** and run all cells.
 
 ##  Repository Contents
 
