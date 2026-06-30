@@ -2,7 +2,7 @@
 
 A Machine Learning project that recommends movies similar to a user's selected movie using **Content-Based Filtering**. The system analyzes movie metadata such as genres, keywords, cast, crew, and overview to find similar movies based on **Cosine Similarity**.
 
-## 📌 Features
+##  Features
 
 * Content-Based Movie Recommendation
 * Data Cleaning & Preprocessing
@@ -11,7 +11,7 @@ A Machine Learning project that recommends movies similar to a user's selected m
 * Similarity Calculation using **Cosine Similarity**
 * Top Movie Recommendations based on user input
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Jupyter Notebook
@@ -20,7 +20,7 @@ A Machine Learning project that recommends movies similar to a user's selected m
 * Scikit-learn
 * NLTK
 
-## 📂 Dataset
+##  Dataset
 
 The project uses the **TMDB 5000 Movie Dataset**:
 
@@ -36,7 +36,7 @@ The project uses the **TMDB 5000 Movie Dataset**:
 5. Calculate movie similarity using **Cosine Similarity**.
 6. Recommend the most similar movies based on the selected movie.
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/sanjana514/Movie_Recommendation_System.git
@@ -47,13 +47,13 @@ jupyter notebook
 
 Open **Movie_Recommendation_System_Final.ipynb** and run all cells.
 
-## 📁 Repository Contents
+##  Repository Contents
 
-* `Movie_Recommendation_System_Final.ipynb` – Complete implementation
+* `Movie_Recommendation_System_Final_fixed.ipynb` – Complete implementation
 * `tmdb_5000_movies.csv` – Movie dataset
 * `tmdb_5000_credits.csv` – Credits dataset
 
-## 📌 Output
+##  Output
 
 The notebook demonstrates the complete recommendation process with sample inputs and outputs, showing movies that are most similar to the selected title.
 
