@@ -1,4 +1,3 @@
-# LLM_Based_Movie_Recommendation_System
 # 🎬 Movie Recommendation System
 
 A Machine Learning project that recommends movies similar to a user's selected movie using **Content-Based Filtering**. The system analyzes movie metadata such as genres, keywords, cast, crew, and overview to find similar movies based on **Cosine Similarity**.
@@ -28,7 +27,7 @@ The project uses the **TMDB 5000 Movie Dataset**:
 * `tmdb_5000_movies.csv`
 * `tmdb_5000_credits.csv`
 
-## 🚀 Project Workflow
+##  Project Workflow
 
 1. Load and merge movie datasets.
 2. Clean and preprocess the data.
@@ -58,8 +57,4 @@ Open **Movie_Recommendation_System_Final.ipynb** and run all cells.
 
 The notebook demonstrates the complete recommendation process with sample inputs and outputs, showing movies that are most similar to the selected title.
 
-## 👩‍💻 Author
 
-**Sanjana**
-
-GitHub: https://github.com/sanjana514/Movie_Recommendation_System
